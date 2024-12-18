@@ -1,0 +1,12 @@
+{
+  "name": "boilerplate",
+  "packageManager": "yarn@4.3.1",
+  "author": {
+    "name": "aman sagar",
+    "email": "amansagar262@gmail.com"
+  },
+  "version": "0.0.1",
+  "workspaces": [
+    "packages/*"
+  ]
+}
